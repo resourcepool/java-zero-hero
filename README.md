@@ -1,5 +1,6 @@
 # Java Masterclass: 0 to hero
 =======
+
 The Java Zero to Hero final content repository containing all resources
 
 ## Resources
