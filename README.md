@@ -3,7 +3,7 @@
 The Java Zero to Hero final content repository containing all resources
 
 ## Resources
-- [Java Masterclass original Youtube Video](https://www.udemy.com/course/java-masterclass-complete-java-development-bootcamp/)
+- [Java Masterclass original Youtube Video](https://www.youtube.com/watch?v=tTW_HgBrFx4)
 - [Author's LinkedIn](https://linkedin.com/in/loicortola)
 - [Takima's website](https://takima.fr/)
 - [Understand Spring Doc (french)](https://www.youtube.com/watch?v=GTHDzFtZ1vA)
